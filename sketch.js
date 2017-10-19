@@ -3,7 +3,7 @@ var pts = [];
 
 function setup() {
 
-	var text_data = "Happy Diwali";
+	var text_data = "Hello world";
 
 	createCanvas(window.innerWidth, window.innerHeight);
 
